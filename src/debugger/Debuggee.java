@@ -2,7 +2,7 @@ package debugger;
 
 public class Debuggee {
 
-    public static void debuggee(){
+    public static void main(String[] args){
         String jpda = "Java Platform Debugger Architecture";
         System.out.println("Welcome to Java Platform debugger");
 
